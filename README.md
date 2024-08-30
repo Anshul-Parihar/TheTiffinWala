@@ -155,7 +155,7 @@ The project repository can be found in [GitHub link](https://github.com/Anshul-P
 ```
 Using HTTPS
 
-https://github.com/Anshul-Parihar/TheTiffinWala.git
+git clone https://github.com/Anshul-Parihar/TheTiffinWala.git
 ```
 
 + Open terminal on your workspace with
